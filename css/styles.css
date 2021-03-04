@@ -381,6 +381,7 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  text-align: justify;
 }
 
 .display-1 {
@@ -10129,4 +10130,11 @@ section.resume-section .resume-section-content {
 ul#skill-sec li{
   padding-bottom: 3px;
   padding-top: 3px;
+}
+.project-img{
+  border: 1px solid #c8c6c6;
+  box-shadow: #383d41;
+}
+#projects{
+  text-align: justify;
 }
