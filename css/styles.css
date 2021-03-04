@@ -10125,3 +10125,8 @@ section.resume-section .resume-section-content {
   letter-spacing: 3px;
   color: #383d41;
 }
+
+ul#skill-sec li{
+  padding-bottom: 3px;
+  padding-top: 3px;
+}
