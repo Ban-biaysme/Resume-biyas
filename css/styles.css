@@ -10131,10 +10131,18 @@ ul#skill-sec li{
   padding-bottom: 3px;
   padding-top: 3px;
 }
+
+ul#skill-sec1 li{
+  padding-bottom: 3px;
+  padding-top: 3px;
+}
 .project-img{
   border: 1px solid #c8c6c6;
   box-shadow: #383d41;
 }
 #projects{
   text-align: justify;
+}
+#volunteer{
+  text-transform: lowercase;
 }
