@@ -10095,7 +10095,7 @@ section.resume-section .resume-section-content {
   section.resume-section {
     min-height: 100vh;
   }
-  #interests{
+  section#interests{
     min-height: 30vh;    
   }
 }
@@ -10107,7 +10107,7 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 
-  #interests{
+  section#interests{
     padding-top: 1rem;
   }
 }
