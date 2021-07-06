@@ -10095,6 +10095,9 @@ section.resume-section .resume-section-content {
   section.resume-section {
     min-height: 100vh;
   }
+  #interests{
+    min-height: 30vh;    
+  }
 }
 @media (min-width: 992px) {
   section.resume-section {
@@ -10102,6 +10105,10 @@ section.resume-section .resume-section-content {
     padding-right: 3rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
+  }
+
+  #interests{
+    padding-top: 1rem;
   }
 }
 #sideNav li a{
